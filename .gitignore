@@ -1,0 +1,17 @@
+# Node / Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# Go / Backend
+Backend/calculator-api
+Backend/*.exe
+
+# Workspaces & IDE
+.vscode/
+go.work
+go.work.sum
+
+# OS
+.DS_Store
+Thumbs.db
